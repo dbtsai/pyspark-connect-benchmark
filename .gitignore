@@ -1,0 +1,14 @@
+.venv*/
+/spark-connect-rust/
+/results/
+/tmp/
+/*_COVERAGE.md
+__pycache__/
+*.pyc
+*.whl
+*.egg-info/
+build/
+dist/
+.DS_Store
+*.pdf
+*.patch

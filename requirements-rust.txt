@@ -1,0 +1,2 @@
+-r requirements-common.txt
+pyspark-client-rust==4.2.0
